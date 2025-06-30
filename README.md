@@ -1,6 +1,7 @@
 # Demo for Group website
 
-This website is powered by Hugo.
+This website is built with [Hugo](https://gohugo.io/) and uses the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
+
 
 
 ## Guide
@@ -11,3 +12,12 @@ This website is powered by Hugo.
 5. Update the `baseurl` field to `https://<username>.github.io/<teamname>/`.
 6. Commit the changes.
 7. Your website will be available at https://username.github.io/teamname/ after a few minutes.
+
+## Assignments
+Update the **Members** tab.
+
+#### Instructions
+- Go to `content/members/_index.md`.
+- Add your members' name and their short introductions.
+- Including photos is optional. If you'd like to add them, upload image files to `content/members/` and update the markdown file with the correct file names.
+
