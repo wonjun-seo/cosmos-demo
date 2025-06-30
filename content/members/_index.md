@@ -28,12 +28,12 @@ Team A members
 
   <div style="flex: 1; text-align: left;">
     <p style="margin: 0; padding-top: 0.5em;">
-      Snoopy is ...
+      Snoopy is a lovable beagle and one of the most iconic characters from the Peanuts comic strip, created by Charles M. Schulz. 
     </p>
     <ul style="margin: 0; padding-left: 20px;">
-      <li>AAA</li>
-      <li>BBB</li>
-      <li>CCC</li>
+      <li>Loyal companion of Charlie Brown</li>
+      <li>Loves root beer and pizza</li>
+      <li>Sleeps on top of his doghouse, not inside it/li>
     </ul>
   </div>
 
