@@ -24,7 +24,7 @@ Team A members
 
   <img src="snoopy.jpeg"
        alt="Snoopy"
-       style="width: 180px; height: 1880px; object-fit: cover; border-radius: 0%; object-position: center; flex-shrink: 0;">
+       style="width: 180px; height: 180px; object-fit: cover; border-radius: 0%; object-position: center; flex-shrink: 0;">
 
   <div style="flex: 1; text-align: left;">
     <p style="margin: 0; padding-top: 0.5em;">
