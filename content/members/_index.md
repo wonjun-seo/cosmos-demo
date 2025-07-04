@@ -24,7 +24,7 @@ Team A members
 
   <img src="snoopy.jpeg"
        alt="Snoopy"
-       style="width: 150px; height: 150px; object-fit: cover; border-radius: 0%; object-position: center; flex-shrink: 0;">
+       style="width: 180px; height: 1880px; object-fit: cover; border-radius: 0%; object-position: center; flex-shrink: 0;">
 
   <div style="flex: 1; text-align: left;">
     <p style="margin: 0; padding-top: 0.5em;">
@@ -47,7 +47,7 @@ Team A members
 
   <img src="woodstock.jpeg"
        alt="Woodstock"
-       style="width: 150px; height: 150px; object-fit: cover; border-radius: 25%; object-position: center; flex-shrink: 0;">
+       style="width: 180px; height: 180px; object-fit: cover; border-radius: 25%; object-position: center; flex-shrink: 0;">
 
   <div style="flex: 1; text-align: left;">
     <p style="margin: 0; padding-top: 0.5em;">
@@ -70,7 +70,7 @@ Team A members
 
   <img src="charlie.jpeg"
        alt="Charlie Brown"
-       style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; object-position: center; flex-shrink: 0;">
+       style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; object-position: center; flex-shrink: 0;">
 
   <div style="flex: 1; text-align: left;">
     <p style="margin: 0; padding-top: 0.5em;">
@@ -93,7 +93,7 @@ Team A members
 
   <img src="lucy.jpeg"
        alt="Lucy Van Pelt"
-       style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; object-position: center; flex-shrink: 0;">
+       style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; object-position: center; flex-shrink: 0;">
 
   <div style="flex: 1; text-align: left;">
     <p style="margin: 0; padding-top: 0.5em;">
@@ -116,7 +116,7 @@ Team A members
 
   <img src="sally.jpeg"
        alt="Sally Brown"
-       style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; object-position: center; flex-shrink: 0;">
+       style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; object-position: center; flex-shrink: 0;">
 
   <div style="flex: 1; text-align: left;">
     <p style="margin: 0; padding-top: 0.5em;">
