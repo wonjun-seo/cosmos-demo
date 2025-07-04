@@ -11,7 +11,7 @@ This website is built with [Hugo](https://gohugo.io/) and uses the [PaperMod](ht
 4. Go to **Code** tab, and open `hugo.yaml` file.
 5. Update the `baseurl` field to `https://<username>.github.io/<teamname>/`.
 6. Commit the changes.
-7. Your website will be available at https://username.github.io/teamname/ after a few minutes.
+7. Your website will be available at https://<username>.github.io/<teamname>/ after a few minutes.
 
 ## Assignments
 Update the **Members** tab.
