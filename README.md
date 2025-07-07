@@ -11,7 +11,7 @@ This website is built with [Hugo](https://gohugo.io/) and uses the [PaperMod](ht
 4. Go to **Code** tab, and open `hugo.yaml` file.
 5. Update the `baseurl` field to `https://ucd25-cosmos-<team name>.github.io/`.
 6. Commit the changes.
-7. Your website will be available at <https://ucd25-cosmos-<team name>.github.io/> after a few minutes.
+7. Your website will be available at https://ucd25-cosmos-<team name>.github.io/ after a few minutes.
 8. Go to **Settings**->**Collaborators**, and add other team members.
 
 ## Assignments
