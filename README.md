@@ -6,7 +6,7 @@ This website is built with [Hugo](https://gohugo.io/) and uses the [PaperMod](ht
 
 0. Create a group Github account (share this with other group members) and set user name as `ucd25-cosmos-<team name>`.
 1. Click “**Use this template**” to create a new repository.
-2. Repository title should be your **team name**, and make sure it is set to **public**.
+2. Repository title should be `ucd25-cosmos-<team name>.github.io`, and make sure it is set to be **public**.
 3. Go to **Settings**->**Pages**, and under **Source**, select **Github Actions**.
 4. Go to **Code** tab, and open `hugo.yaml` file.
 5. Update the `baseurl` field to `https://ucd25-cosmos-<team name>.github.io/`.
